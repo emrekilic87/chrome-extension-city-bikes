@@ -1,0 +1,19 @@
+body {
+  background-color: #212529;
+}
+  
+.table {
+  color: #fff;
+}
+
+.table thead{
+  position: sticky;
+  top: 0;
+  border-bottom: 2px solid;
+  background-color: #030213;
+}
+
+#result {
+  width: 670px;
+  margin: 0 auto;
+}
